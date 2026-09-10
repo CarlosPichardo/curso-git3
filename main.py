@@ -1,0 +1,2 @@
+
+cachu: str = input()
